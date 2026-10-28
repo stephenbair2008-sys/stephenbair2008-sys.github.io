@@ -1,14 +1,14 @@
 function moveScenery() {
   // TODO 2: Move background scenery based on current level speed
-}
+} var buildingInstance = scenery.building.instances[i];
 
 function generateLevel() {
   // TODO 3: Generate the current level's game objects
-}
+} 
 
 function create(obj) {
   // TODO 4: Create a game object based on its type and kind
-}
+} 
 
 function filterObjects(type) {
   // TODO 5: Return only the game objects of the specified type

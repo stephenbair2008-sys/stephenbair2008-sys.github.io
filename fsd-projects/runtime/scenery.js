@@ -19,6 +19,6 @@ const scenery = {
   lamp: {
     imageUrl: "images/backgrounds/lamp.png",
     loopWidth: 1400,
-    instances: [{ x: 700, width: 50, height: 150, speedX: 0 }],
+    instances: [{ x: 700, width: 60, height: 150, speedX: 100 }],
   },
 };
